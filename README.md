@@ -16,5 +16,6 @@ El salario del empleado es 1000
 La nomina de todos los empleados es de 10000
 +----------------------------------------------------------------------+
 Etapa 03. Diseño de la solución.
+![T3A6diagrama](https://user-images.githubusercontent.com/115474798/206441674-d218a88c-a50f-4277-a088-841ba26fdbb8.png)
 
 
