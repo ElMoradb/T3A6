@@ -15,7 +15,11 @@ El correo del empleado es bryanmora@gmail.com
 El salario del empleado es 1000
 La nomina de todos los empleados es de 10000
 +----------------------------------------------------------------------+
-Etapa 03. Diseño de la solución.
+Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguiente imagen:
+![Ejemplo-de-Como-Calcular-el-ISR](https://user-images.githubusercontent.com/115474798/206616635-0d6632e4-1989-4b34-a408-a08e1c0c91f2.png)
+
+Etapa 03. Diseño de la solucin.
 ![T3A6diagrama](https://user-images.githubusercontent.com/115474798/206441674-d218a88c-a50f-4277-a088-841ba26fdbb8.png)
 
+Etapa 04. Desarrollo de la solución.
 
